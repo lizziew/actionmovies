@@ -81,7 +81,7 @@
     //http://datahub.csail.mit.edu/repos/eweitest/repo2/tables/actionmovies?format=json
 
     var client_id = "SPkwLQukOg7agAGe7V7337kzI2sqWqvuR3zPHyAF";
-    var redirect_uri = "https://192.168.50.1:8080/";
+    var redirect_uri = "https://127.0.0.1:8080/";
     var base_url = "//datahub-local.mit.edu";
 
     // Convenience function to build DataHub URL strings
@@ -156,6 +156,7 @@
             "redirect_uri": redirect_uri + "actionmovies.html/"
         };
         var authorization_url = buildURL("/oauth2/authorize/", params);
+        //console.log(authorization_url); 
         window.location.href = authorization_url;
       });
 
