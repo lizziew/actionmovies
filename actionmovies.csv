@@ -1,0 +1,58 @@
+id,label,year,gross,genre,rating
+Star Wars Episode VII The Force Awakens,Star Wars Episode VII The Force Awakens,2015,922,action,pg13
+Avatar,Avatar,2009,761,action,pg13
+Jurassic World,Jurassic World,2015,652,action,pg13
+The Avengers,The Avengers,2012,623,action,pg13
+The Dark Knight,The Dark Knight,2008,533,action,pg13
+Star Wars Episode I The Phantom Menace,Star Wars Episode I The Phantom Menace,1999,475,action,pg
+Star Wars,Star Wars,1977,461,action,pg
+Avengers: Age of Ultron,Avengers: Age of Ultron,2015,459,action,pg13
+The Dark Knight Rises,The Dark Knight Rises,2012,448,action,pg13
+Pirates of the Caribbean: Dead Man's Chest,Pirates of the Caribbean: Dead Man's Chest,2006,423,action,pg13 
+Iron Man 3,Iron Man 3,2013,409,action,pg13
+Spider Man,Spider Man,2002,404,action,pg13
+Transformers: Revenge of the Fallen,Transformers: Revenge of the Fallen,2009,402,action,pg13
+Star Wars Episode III  Revenge of the Sith,Star Wars Episode III Revenge of the Sith,2005,380,action,pg13
+SpiderMan 2,Spider Man 2,2004,373,action,pg13
+Transformers: Dark of the Moon,Transformers: Dark of the Moon,2011,352,action,pg13
+American Sniper,American Sniper,2014,350,action,r
+Furious 7,Furious 7,2015,350,action,pg13
+Spider Man 3,Spider Man 3,2007,337,action,pg13
+Guardians of the Galaxy,Guardians of the Galaxy,2014,333,action,pg13
+Shrek 2,Shrek 2,2004,436,comedy,pg
+Toy Story 3,Toy Story 3,2010,415,comedy,g
+Frozen,Frozen,2013,401,comedy,pg
+Finding Nemo,Finding Nemo,2003,381,comedy,g
+Despicable Me 2,Despicable Me 2,2013,368,comedy,pg
+Inside Out,Inside Out,2015,356,comedy,pg
+Minions,Minions,2015,336,comedy,pg
+Shrek the Third,Shrek the Third,2007,321,comedy,pg
+Up,Up,2009,293,comedy,pg
+"Monsters, Inc.","Monsters, Inc.",2001,290,comedy,g
+Home Alone,Home Alone,1990,286,comedy,pg
+Meet the Fockers,Meet the Fockers,2004,279,comedy romance,pg13
+The Hangover,The Hangover,2009,277,comedy,ur
+Monsters University,Monsters University,2013,268,comedy,g
+Shrek,Shrek,2001,268,comedy,pg
+How the Grinch Stole Christmas,How the Grinch Stole Christmas,2000,260,comedy,pg
+The Lego Movie,The Lego Movie,2014,258,comedy,pg
+The Hangover Part II,The Hangover Part II,2011,254,comedy,r
+Despicable Me,Despicable Me,2010,252,comedy,pg
+Night at the Museum,Night at the Museum,2010,252,comedy,pg
+Titanic,Titanic,1997,659,romance,pg13
+Forrest Gump,Forrest Gump,1994,330,romance,pg13
+The Twilight Saga: Eclipse,The Twilight Saga: Eclipse,2010,301,romance,pg13
+The Twilight Saga: New Moon,The Twilight Saga: New Moon,2009,279,romance,pg13
+The Twilight Saga: Breaking Dawn Part 2,The Twilight Saga: Breaking Dawn Part 2,2012,292,romance,pg13
+The Twilight Saga: Breaking Dawn Part 1,The Twilight Saga: Breaking Dawn Part 1,2011,281,romance,pg13
+My Big Fat Greek Wedding,My Big Fat Greek Wedding,2002,241,romance comedy,pg
+Maleficent,Maleficent,2014,241,romance action,pg
+Cast Away,Cast Away,2000,234,romance,pg13
+Beauty and the Beast,Beauty and the Beast,1991,219,romance,g
+King Kong,King Kong,2005,218,romance action,pg13
+Ghost,Ghost,2011,218,romance,pg13
+Aladdin,Aladdin,1992,217,romance,g
+Wedding Crashers,Wedding Crashers,2005,209,romance comedy,r
+Cinderella,Cinderella,2015,201,romance,pg
+Tangled,Tangled,2010,201,comedy,pg
+Mr. & Mrs. Smith,Mr. & Mrs. Smith,2005,186,romance action,ur
